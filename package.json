@@ -1,6 +1,6 @@
 {
   "name": "objectwizard",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Object manipulation utility library for JavaScript/TypeScript",
   "main": "dist/index.js",
   "types": "dist/objectwizard.d.ts",
@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/rtobart/ObjectWizard.git"
   },
+  "publishConfig": {
+    "homepage": "https://github.com/rtobart/ObjectWizard#readme"
+    },
   "author": "https://github.com/rtobart",
   "license": "ISC",
   "bugs": {
