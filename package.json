@@ -1,11 +1,19 @@
 {
   "name": "objectwizard",
-  "version": "1.0.2",
-  "description": "# ObjectWizard",
-  "main": "related tasks with utility functions",
+  "version": "1.0.3",
+  "description": "Object manipulation utility library for JavaScript/TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/objectwizard.d.ts",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "build": "tsc"
   },
+  "keywords": [
+    "object",
+    "array",
+    "utility",
+    "manipulation"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rtobart/ObjectWizard.git"
@@ -15,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/rtobart/ObjectWizard/issues"
   },
-  "homepage": "https://github.com/rtobart/ObjectWizard#readme"
+  "homepage": "https://github.com/rtobart/ObjectWizard#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
