@@ -1,6 +1,6 @@
 {
   "name": "objectwizard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Object manipulation utility library for JavaScript/TypeScript",
   "main": "dist/index.js",
   "types": "dist/objectwizard.d.ts",
