@@ -15,8 +15,10 @@
  * @license MIT
  */
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.indexOfObject = exports.includesObject = void 0;
+exports.paginate = exports.indexOfObject = exports.includesObject = void 0;
 var includesObject_1 = require("./includesObject");
 Object.defineProperty(exports, "includesObject", { enumerable: true, get: function () { return includesObject_1.includesObject; } });
 var indexOfObject_1 = require("./indexOfObject");
 Object.defineProperty(exports, "indexOfObject", { enumerable: true, get: function () { return indexOfObject_1.indexOfObject; } });
+var paginate_1 = require("./paginate");
+Object.defineProperty(exports, "paginate", { enumerable: true, get: function () { return paginate_1.paginate; } });

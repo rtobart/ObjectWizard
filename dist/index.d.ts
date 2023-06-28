@@ -15,3 +15,4 @@
  */
 export { includesObject } from './includesObject';
 export { indexOfObject } from './indexOfObject';
+export { paginate } from './paginate';
