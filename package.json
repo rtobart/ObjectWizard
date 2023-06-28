@@ -8,19 +8,10 @@
     "test": "npm run test",
     "build": "tsc"
   },
-  "keywords": [
-    "object",
-    "array",
-    "utility",
-    "manipulation"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rtobart/ObjectWizard.git"
   },
-  "publishConfig": {
-    "homepage": "https://github.com/rtobart/ObjectWizard#readme"
-    },
   "author": "https://github.com/rtobart",
   "license": "ISC",
   "bugs": {
